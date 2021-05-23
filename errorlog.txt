@@ -1,0 +1,102 @@
+(3/11/2020 3:06:46 PM) Index was outside the bounds of the array.
+(3/11/2020 3:06:50 PM) Index was outside the bounds of the array.
+(3/11/2020 3:57:49 PM) Cannot reach the Database for rooms
+(3/11/2020 4:01:13 PM) Cannot reach the Database for rooms
+(3/11/2020 4:01:20 PM) Cannot reach the Database for rooms
+(3/12/2020 10:04:51 AM) Cannot reach the Database for rooms
+(3/12/2020 10:04:56 AM) Cannot reach the Database for rooms
+(3/12/2020 10:04:57 AM) Cannot reach the Database for rooms
+(3/12/2020 10:05:38 AM) Cannot reach the Database for rooms
+(3/12/2020 10:29:05 AM) Cannot reach the Database for rooms
+(3/12/2020 11:26:49 AM) (3/12/2020 11:26:49 AM) Room - Something went wrong when connecting to the database!
+(3/12/2020 11:27:15 AM) (3/12/2020 11:27:15 AM) Room - Something went wrong when connecting to the database!
+(3/12/2020 11:27:20 AM) (3/12/2020 11:27:20 AM) Room - Something went wrong when connecting to the database!
+(3/12/2020 11:29:59 AM) (3/12/2020 11:29:59 AM) Room - Something went wrong when connecting to the database!
+(3/12/2020 11:31:56 AM) (3/12/2020 11:31:56 AM) Room - Something went wrong when connecting to the database.
+(3/12/2020 11:33:10 AM) Room - Something went wrong when connecting to the database.
+(3/12/2020 11:39:36 AM) Room - Something went wrong when connecting to the database.
+(3/12/2020 11:49:44 AM) Room - Something went wrong when connecting to the database.
+(3/12/2020 12:05:47 PM) [Index was outside the bounds of the array.] Student - Something went wrong when connecting to the database.
+(3/12/2020 12:07:11 PM) [Invalid column name 'dentID'.] Student - Something went wrong when connecting to the database.
+(3/12/2020 2:00:44 PM) [Invalid column name 'techerID'.] Teacher - Something went wrong when connecting to the database.
+(3/12/2020 2:45:49 PM) [Incorrect syntax near the keyword 'FROM'.] Room - Something went wrong when connecting to the database.
+(3/12/2020 7:31:30 PM) [Incorrect syntax near the keyword 'FROM'.] Room - Something went wrong when connecting to the database.
+(3/16/2020 7:02:42 PM) [Incorrect syntax near 'dateOrders'.] Order - Something went wrong when connecting to the database.
+(3/16/2020 7:04:49 PM) [Incorrect syntax near 'dateOrders'.] Order - Something went wrong when connecting to the database.
+(3/16/2020 7:06:55 PM) [Incorrect syntax near 'dateOrders'.] Order - Something went wrong when connecting to the database.
+(3/16/2020 7:11:47 PM) [Incorrect syntax near 'dateOrders'.] Order - Something went wrong when connecting to the database.
+(3/16/2020 7:12:25 PM) [Conversion failed when converting date and/or time from character string.] Order - Something went wrong when connecting to the database.
+(3/16/2020 7:18:01 PM) [Conversion failed when converting date and/or time from character string.] Order - Something went wrong when connecting to the database.
+(3/16/2020 7:20:22 PM) [Conversion failed when converting date and/or time from character string.] Order - Something went wrong when connecting to the database.
+(3/16/2020 7:20:35 PM) [Conversion failed when converting date and/or time from character string.] Order - Something went wrong when connecting to the database.
+(3/16/2020 7:23:28 PM) [Conversion failed when converting date and/or time from character string.] Order - Something went wrong when connecting to the database.
+(3/16/2020 7:24:09 PM) [Conversion failed when converting date and/or time from character string.] Order - Something went wrong when connecting to the database.
+(3/16/2020 7:25:26 PM) [Specified cast is not valid.] Order - Something went wrong when connecting to the database.
+(3/16/2020 7:59:59 PM) [Specified cast is not valid.] Order - Something went wrong when connecting to the database.
+(3/16/2020 8:01:45 PM) [Specified cast is not valid.] Order - Something went wrong when connecting to the database.
+(3/16/2020 8:22:15 PM) [Conversion failed when converting date and/or time from character string.] Order - Something went wrong when connecting to the database.
+(3/17/2020 8:33:24 AM) [Specified cast is not valid.] Order - Something went wrong when connecting to the database.
+(3/17/2020 8:33:56 AM) [Specified cast is not valid.] Order - Something went wrong when connecting to the database.
+(3/17/2020 8:39:49 AM) [Specified cast is not valid.] Order - Something went wrong when connecting to the database.
+(3/17/2020 8:43:52 AM) [Specified cast is not valid.] Order - Something went wrong when connecting to the database.
+(3/17/2020 8:46:53 AM) [Specified cast is not valid.] Order - Something went wrong when connecting to the database.
+(3/17/2020 9:23:34 AM) [Specified cast is not valid.] Order - Something went wrong when connecting to the database.
+(3/17/2020 9:30:03 AM) [Specified cast is not valid.] Order - Something went wrong when connecting to the database.
+(3/17/2020 9:30:07 AM) [Specified cast is not valid.] Order - Something went wrong when connecting to the database.
+(3/17/2020 9:30:36 AM) [Specified cast is not valid.] Order - Something went wrong when connecting to the database.
+(3/17/2020 9:30:49 AM) [Specified cast is not valid.] Order - Something went wrong when connecting to the database.
+(3/17/2020 9:46:29 AM) [Specified cast is not valid.] Order - Something went wrong when connecting to the database.
+(3/17/2020 10:20:17 AM) [Specified cast is not valid.] Order - Something went wrong when connecting to the database.
+(3/17/2020 10:21:29 AM) [Specified cast is not valid.] Order - Something went wrong when connecting to the database.
+(3/17/2020 10:21:46 AM) [Specified cast is not valid.] Order - Something went wrong when connecting to the database.
+(3/17/2020 10:22:19 AM) [Specified cast is not valid.] Order - Something went wrong when connecting to the database.
+(3/17/2020 10:24:40 AM) [[Specified cast is not valid.] - Cannot cast NULL!] Order - Something went wrong when connecting to the database.
+(3/17/2020 10:26:32 AM) [[Specified cast is not valid.] - Cannot cast NULL!] Order - Something went wrong when connecting to the database.
+(3/17/2020 10:50:46 AM) [Conversion failed when converting date and/or time from character string.] Order - Something went wrong when connecting to the database.
+(3/17/2020 10:50:53 AM) [Conversion failed when converting date and/or time from character string.] Order - Something went wrong when connecting to the database.
+(3/17/2020 10:51:54 AM) [Conversion failed when converting date and/or time from character string.] Order - Something went wrong when connecting to the database.
+(3/17/2020 10:51:58 AM) [Conversion failed when converting date and/or time from character string.] Order - Something went wrong when connecting to the database.
+(3/19/2020 10:36:30 PM) [Invalid column name 'stdentID'.] Student - Something went wrong when connecting to the database.
+(3/19/2020 10:38:11 PM) [Incorrect syntax near the keyword 'FROM'.] Drink - Something went wrong when connecting to the database.
+(3/19/2020 10:41:51 PM) [Incorrect syntax near the keyword 'FROM'.] Drink - Something went wrong when connecting to the database.
+(3/19/2020 10:41:55 PM) [Incorrect syntax near the keyword 'FROM'.] Drink - Something went wrong when connecting to the database.
+(3/20/2020 11:12:34 AM) [Incorrect syntax near ','.] Drink - Something went wrong when connecting to the database.
+(3/20/2020 12:08:21 PM) [Input string was not in a correct format.] Drink - Something went wrong when connecting to the database.
+(3/20/2020 12:10:29 PM) [Input string was not in a correct format.] Drink - Something went wrong when connecting to the database.
+(3/20/2020 12:13:39 PM) [Input string was not in a correct format.] Drink - Something went wrong when connecting to the database.
+(3/20/2020 12:17:42 PM) [Input string was not in a correct format.] Drink - Something went wrong when connecting to the database.
+(3/20/2020 12:26:27 PM) [Input string was not in a correct format.] Drink - Something went wrong when connecting to the database.
+(3/20/2020 12:27:28 PM) [Input string was not in a correct format.] Drink - Something went wrong when connecting to the database.
+(3/20/2020 12:29:07 PM) [Input string was not in a correct format.] Drink - Something went wrong when connecting to the database.
+(3/20/2020 2:58:38 PM) [Input string was not in a correct format.] Drink - Something went wrong when connecting to the database.
+(3/20/2020 2:59:21 PM) [Input string was not in a correct format.] Drink - Something went wrong when connecting to the database.
+(3/20/2020 2:59:49 PM) [Input string was not in a correct format.] Drink - Something went wrong when connecting to the database.
+(3/20/2020 3:00:23 PM) [Input string was not in a correct format.] Drink - Something went wrong when connecting to the database.
+(3/20/2020 3:06:45 PM) [Input string was not in a correct format.] Drink - Something went wrong when connecting to the database.
+(3/20/2020 3:06:45 PM) [Something went wrong when connecting to the database for drink!] Drink - Something went wrong when connecting to the database.
+(3/20/2020 3:07:29 PM) [Input string was not in a correct format.] Drink - Something went wrong when connecting to the database.
+(3/20/2020 3:11:10 PM) [Input string was not in a correct format.] Drink - Something went wrong when connecting to the database.
+(3/20/2020 4:00:58 PM) [Input string was not in a correct format.] POPUPNewDrink - Something went wrong when connecting to the database.
+(3/24/2020 1:49:17 PM) [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)] Timetable - Something went wrong when connecting to the database.
+(3/24/2020 2:13:30 PM) [A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)] Timetable - Something went wrong when connecting to the database.
+(3/24/2020 3:25:07 PM) [name] Timetable - Something went wrong when connecting to the database.
+(3/24/2020 3:29:54 PM) [Incorrect syntax near 'teachers'.] Timetable - Something went wrong when connecting to the database.
+(3/26/2020 6:11:36 PM) [Invalid column name 'supervisorID'.] Supervisor - Something went wrong when connecting to the database.
+(3/26/2020 6:11:55 PM) [Invalid column name 'supervisorID'.] Supervisor - Something went wrong when connecting to the database.
+(3/26/2020 6:12:12 PM) [Ambiguous column name 'teacherID'.] Supervisor - Something went wrong when connecting to the database.
+(3/26/2020 6:14:17 PM) [Incorrect syntax near the keyword 'AND'.] Timetable - Something went wrong when connecting to the database.
+(3/26/2020 6:14:48 PM) [Incorrect syntax near the keyword 'AND'.] Timetable - Something went wrong when connecting to the database.
+(3/26/2020 6:15:07 PM) [Incorrect syntax near the keyword 'AND'.] Timetable - Something went wrong when connecting to the database.
+(3/26/2020 6:16:07 PM) [Incorrect syntax near 'supervisors'.] Timetable - Something went wrong when connecting to the database.
+(3/26/2020 6:18:03 PM) [Incorrect syntax near 'S'.] Timetable - Something went wrong when connecting to the database.
+(3/26/2020 10:37:24 PM) [Keyword not supported: 'data source den1.mssql8.gear.host;
+                  initial catalog'.] Revenue - Something went wrong when connecting to the database.
+(3/26/2020 10:37:46 PM) [Keyword not supported: 'data source den1.mssql8.gear.host;
+                  initial catalog'.] Revenue - Something went wrong when connecting to the database.
+(3/27/2020 1:38:24 PM) [The DELETE statement conflicted with the REFERENCE constraint "FK_orders_drinkID". The conflict occurred in database "pdb1920it10", table "dbo.orders", column 'drinkID'.
+The statement has been terminated.] Drink - Something went wrong when connecting to the database.
+(3/27/2020 1:58:41 PM) [Incorrect syntax near the keyword 'INTO'.] Activities - Something went wrong when connecting to the database.
+(3/27/2020 1:58:41 PM) [Something went wrong when connecting to the database for activities!] POPUPNewActivity - Something went wrong when connecting to the database.
+(3/27/2020 2:04:23 PM) [The DELETE statement conflicted with the REFERENCE constraint "FK_timetable_activityID". The conflict occurred in database "pdb1920it10", table "dbo.timetable", column 'activityID'.
+The statement has been terminated.] Activities - Something went wrong when connecting to the database.
+(3/27/2020 2:04:23 PM) [Something went wrong when connecting to the database for activities!] Activity - Something went wrong when connecting to the database.
